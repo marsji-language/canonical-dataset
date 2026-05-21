@@ -23,4 +23,10 @@ The project focuses on:
 Meaning is universal.  
 Language is merely the surface.
 
+Marsji Language — Canonical Lexical Lock
+Version: 1.0
+Locked: 21 May 2026
+Total Entries: 1,087,070
+Author: Gino Rouzee
+
 ☕ Support the project on BuyMeACoffee
