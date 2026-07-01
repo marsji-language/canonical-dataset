@@ -20,4 +20,4 @@ Title: Marsji Language: Canonical Lexical Lock (Version 1.0)
 Year: 2026
 Availability: https://github.com/marsji-language/canonical-dataset
 ```
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21062821.svg)](https://doi.org/10.5281/zenodo.21062821)
